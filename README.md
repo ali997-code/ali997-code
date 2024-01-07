@@ -8,9 +8,13 @@
 </div>
 
 
-<!--- snake -->
-![snake gif](https://github.com/ali997-code/ali997-code/blob/output/github-contribution-grid-snake.gif)
-
+<!-- snake -->
+<!--
+<div align="center">
+  <img src="https://github.com/ali997-code/ali997-code/blob/output/github-contribution-grid-snake.svg"
+    alt="snake" /></a>
+</div>
+-->
 
 <!--Intro start-->
 - 🔭 I’m currently working on **[Odoo](https://www.odoo.com/)**
